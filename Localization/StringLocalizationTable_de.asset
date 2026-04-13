@@ -1,0 +1,891 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 33ffca1712dce914c819667da64ecac0, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 822829599387811843
+  m_TableData:
+  - m_Id: 93865472000
+    m_Localized: spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109128544256
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123355623424
+    m_Localized: beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155660152832
+    m_Localized: Audioeinstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173032960000
+    m_Localized: "Lautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188765794304
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198702100480
+    m_Localized: Effekte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243346272256
+    m_Localized: "zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259246878720
+    m_Localized: mach das nicht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316444602368
+    m_Localized: wirklich beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330428411904
+    m_Localized: vergiss es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343481085952
+    m_Localized: dein Spiel wird nicht gespeichert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376418955264
+    m_Localized: "W\xE4hle eins"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460086931456
+    m_Localized: Durchdringend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482526457856
+    m_Localized: Schrotflinte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495478468608
+    m_Localized: Maschinengewehr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509835571200
+    m_Localized: Sucher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568194891776
+    m_Localized: Gummibeschichtung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7744649261056
+    m_Localized: "Sch\xFCsse prallen von Hindernissen ab {addBouncinessCount} mal,
+      anstatt zerst\xF6rt zu werden"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7761657163776
+    m_Localized: Verbrennen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7898886402048
+    m_Localized: "Verleiht jedem Schuss {addBurnChance} Chance, Feinde in Brand zu
+      setzen, und {addBurnStacksPerShot} Stapel Feuerschaden hinzuzuf\xFCgen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7913402888192
+    m_Localized: Frost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7918901620736
+    m_Localized: Verleiht jedem Schuss {addFrostChance} Chance, Feinde einzufrieren
+      (mit {addFrostStacksPerShot} Froststapeln), wodurch sie verlangsamt werden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7947909427200
+    m_Localized: Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995976151040
+    m_Localized: "Verleiht jedem Schuss {addPoisonChance} Chance, Feinde zu vergiften,
+      und {addPoisonStacksPerShot} Stapel Giftschaden hinzuzuf\xFCgen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8010836570112
+    m_Localized: Salve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8015840374784
+    m_Localized: "Erh\xF6ht pro Schuss die Chance um {addAdditionalProjectileChanceModifierFlat},
+      {addProjectileCountModifierFlat} zus\xE4tzliche Kugeln abzufeuern, allerdings
+      mit {addSpreadModifierFlat} Grad Streuung und {addSpreadModifierMult} zus\xE4tzlicher
+      Streuung"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8072048242688
+    m_Localized: Kettengewehr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8094353551360
+    m_Localized: "Die Feuerrate und die Streuung steigen, je l\xE4nger du schie\xDFt
+      (max. {addChainGunMaxFirerateMult}/{addChainGunMaxSpreadMult}, nach <color=orange>10</color>
+      Sekunden)"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8108177977344
+    m_Localized: Kettenblitz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8145033326592
+    m_Localized: "Erh\xF6ht pro Schuss die Chance um {addChainLightningOdds}, {addChainLightningQty}
+      Gegner mit Kettenblitz zu treffen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8160229289984
+    m_Localized: Ausweich-Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8174280208384
+    m_Localized: "Hinterlasse eine gro\xDFe, schadenverursachende Aura beim Ausweichen,
+      die jedem Gegner 20 Schaden zuf\xFCgt und ihn leicht zur\xFCckst\xF6\xDFt"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8193129410560
+    m_Localized: Miniaturisierung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288293974016
+    m_Localized: Kugeln werden um {addBulletSizeModifierMult} kleiner, verursachen
+      aber {addDmgModifierMult} mehr Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8322968285184
+    m_Localized: "Tr\xE4ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8324746670080
+    m_Localized: Kugeln bewegen sich {addBulletSpeedModifierMult} langsamer, verursachen
+      aber {addDmgModifierMult} mehr Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8371068563456
+    m_Localized: Umlaufbahn verkleinern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8804960923648
+    m_Localized: "Kugeln kreisen {addOrbitRadius} n\xE4her"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8825185857536
+    m_Localized: Adlerauge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8852457222144
+    m_Localized: Reduziert die Kugelstreuung um {addSpreadModifierMult}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8866847879168
+    m_Localized: Schwere Artillerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8868659818496
+    m_Localized: Bewege dich {addPlayerMoveSpeedModifier} Einheiten langsamer, aber
+      erziele +{addDmgModifierMult} Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8928302821376
+    m_Localized: "Gro\xDFe Fl\xE4chenwirkung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8951350521856
+    m_Localized: "Wirkungsbereiche werden gr\xF6\xDFer (Explosionen, etc.)"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8968329064448
+    m_Localized: Konservierungsstoffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030056636416
+    m_Localized: "Kugeln verweilen {addBulletLifetimeModifierMult} l\xE4nger"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9039250550784
+    m_Localized: "Gro\xDFer Schuss"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9044715728896
+    m_Localized: "Kugeln werden um {addBulletSizeModifierMult} gr\xF6\xDFer und verursachen
+      {addDmgModifierMult} mehr Schaden"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9151876001792
+    m_Localized: Flott
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9312203272192
+    m_Localized: Kugeln fliegen {addBulletSpeedModifierMult} schneller
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9326321299456
+    m_Localized: "Peinlich pr\xE4zise"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9329076957184
+    m_Localized: "Erhalte {addCriticalHitChance} zus\xE4tzliche kritische Trefferchance"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9436799266816
+    m_Localized: Kritische Verletzung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9439617839104
+    m_Localized: "Erh\xF6he den Schaden bei kritischen Treffern um {addCriticalHitDamageMultiplier}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9497310490624
+    m_Localized: Brrrt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9500124868608
+    m_Localized: "Schie\xDFe {addFirerateModifierFlat} weitere Sch\xFCsse pro Sekunde"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11046778662912
+    m_Localized: Feuerkraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11092228141056
+    m_Localized: "F\xFCge pro Schuss {addDmgModifierFlat} mehr Schaden zu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11110636941312
+    m_Localized: "Umlaufbahn vergr\xF6\xDFern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11115170983936
+    m_Localized: Kugeln kreisen weiter entfernt
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11175640264704
+    m_Localized: Durchdringend+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11287569461248
+    m_Localized: "Sch\xFCsse durchdringen {addPiercingBoost} zus\xE4tzlichen Gegner"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11446147706880
+    m_Localized: Glaukom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11450442674176
+    m_Localized: "Erh\xF6he die Kugelstreuung um {addSpreadModifierMult}, verursache
+      jedoch {addDmgModifierMult} mehr Schaden"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11927620251648
+    m_Localized: Hitzesuchend+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11930770173952
+    m_Localized: Geschosse suchen Gegner besser
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12621756592128
+    m_Localized: Marathon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623501422592
+    m_Localized: "Bewege dich {addPlayerMoveSpeedModifier} Einheiten schneller, aber
+      die Dash-Abklingzeit erh\xF6ht sich um {addDashCooldownModifierMult}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12665796784128
+    m_Localized: Zoomies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12669248696320
+    m_Localized: Bewege dich {addPlayerMoveSpeedModifier} Einheiten schneller
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12998375731200
+    m_Localized: Liebe des Zufalls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001492099072
+    m_Localized: Gewinne oder verliere bis zu {addRandomizeDmgPercent} Schaden pro
+      Schuss
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13271315869696
+    m_Localized: Durchdringer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13273228472320
+    m_Localized: Hoher Durchschlagschaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13379226923008
+    m_Localized: Maschinengewehr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13424881922048
+    m_Localized: Schnellfeuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13442019848192
+    m_Localized: Sucher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13444804866048
+    m_Localized: Das, was Gegnern folgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13485829353472
+    m_Localized: Schrotflinte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13488077500416
+    m_Localized: Mehrere Kugeln, kurze Reichweite, hohe Streuung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13533799608320
+    m_Localized: Explosiv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13539235426304
+    m_Localized: "Erh\xF6ht die Chance um {addShotsExplodeChance}, dass Sch\xFCsse
+      beim Treffer explodieren, mit einer um {addExplosionSize} vergr\xF6\xDFerten
+      Explosion"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13589348970496
+    m_Localized: Gravitationsfeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13591731335168
+    m_Localized: "Sch\xFCsse kreisen eine Zeit lang um dich"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13625109606400
+    m_Localized: Hitzesuchend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13627122872320
+    m_Localized: Alle Projektile verfolgen Gegner
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13895210201088
+    m_Localized: Geschwindigkeit ist Macht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13898091687936
+    m_Localized: "F\xFCge als zus\xE4tzlichen Schaden den Wert {addSpeedDMGCoeff}
+      deiner aktuellen Bewegungsgeschwindigkeit hinzu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13959844425728
+    m_Localized: Wackelig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13962059018240
+    m_Localized: Kugeln bewegen sich wie Schlangen und verursachen {addDmgModifierMult}
+      mehr Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13991813410816
+    m_Localized: Top 1%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13995437289472
+    m_Localized: "F\xFCge als Bonusschaden {addWormDMGCoeff} deiner aktuellen W\xFCrmer
+      hinzu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 62414390390784
+    m_Localized: wiederholen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62440390881280
+    m_Localized: du bist tot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70849190260736
+    m_Localized: "Upgrade ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70851060920320
+    m_Localized: "ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652116405346304
+    m_Localized: Drohne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994933052973056
+    m_Localized: die Bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994975939731456
+    m_Localized: Kritische Treffer explodieren stets
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 4995173608890368
+    m_Localized: Krit-Explo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5185523640213504
+    m_Localized: Hexenbrand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5189445176041472
+    m_Localized: Insektenspray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202534072098816
+    m_Localized: E-Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5468339489775616
+    m_Localized: Aas-B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439200199806976
+    m_Localized: "hei\xDFes Messer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439289920163840
+    m_Localized: Kugeln erhalten {addBulletSpeedModifierMult} Geschwindigkeit, besitzen
+      aber {addPiercingBoost} Durchdringung
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439360548048896
+    m_Localized: Phantombrunnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439406442123264
+    m_Localized: "Umkreisende Projektile durchdringen W\xE4nde"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439455565811712
+    m_Localized: Splitter-Schuss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439459323908096
+    m_Localized: "Erhalte {addSplinterShotChance} Chance, dass Sch\xFCsse beim Treffer
+      in 2 Splitter zerfallen, die jeweils <color=orange>20%</color> des urspr\xFCnglichen
+      Schadens verursachen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439586063192064
+    m_Localized: Stall-Ausbruch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439587875131392
+    m_Localized: "Erhalte {addNotShootingFirerateBoostMult} Feuerrate f\xFCr <color=orange>5s</color>,
+      nachdem du <color=orange>5s</color> nicht geschossen hast"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439683530428416
+    m_Localized: verdampfen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439685069737984
+    m_Localized: Erhalte {addVaporizingShotChance} Chance, einen Gegner beim Treffer
+      sofort zu eliminieren (nur Nicht-Bosse)
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8555821761368064
+    m_Localized: Trommelmagazin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8555823363592192
+    m_Localized: "Schie\xDFe {addFirerateModifierMult} weitere Sch\xFCsse pro Sekunde,
+      aber mit {addSpreadModifierFlat} Grad Streuung und {addSpreadModifierMult}
+      mehr Streuung"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8557973586120704
+    m_Localized: Beschleunigter Schuss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8557975494529024
+    m_Localized: Die Schussgeschwindigkeit startet langsam ({addAcceleratingShotStartSpeed})
+      und steigt im Laufe der Zeit um {addAcceleratingShotAccelRate}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8582138313641984
+    m_Localized: Ausweichen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582139848757248
+    m_Localized: Erleide {addAvoidanceDefense} weniger Schaden, je schneller du dich
+      bewegst
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8582328907010048
+    m_Localized: "Tr\xE4gheit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582330416959488
+    m_Localized: "Bewegung hat Tr\xE4gheit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176721700175872
+    m_Localized: Verringere die Gesundheit von Gegnern um {addBugsprayPercent}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176755212664832
+    m_Localized: Kritische Explosionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176780508512256
+    m_Localized: Explosionen sind immer kritisch
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176796815966208
+    m_Localized: Kreaturen explodieren beim Tod
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176816877322240
+    m_Localized: Kritische Treffer explodieren stets
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176851832651776
+    m_Localized: "Blitz wird immer ausgel\xF6st"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176872162443264
+    m_Localized: Elementare Effekte gelten bei jedem Schuss, jedoch mit weniger Stapeln
+      pro Schuss
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 19569029032632320
+    m_Localized: Gaswolke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19569051677679616
+    m_Localized: Vergiftete Gegner geben eine Giftwolke ab, die Feinde vergiftet
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 20303331854524416
+    m_Localized: "Brennende D\xE4mpfe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20303354654760960
+    m_Localized: "Gegner, die vergiftet und verbrannt sind, str\xF6men eine gro\xDFe,
+      brennende Gaswolke aus, die Gegner vergiftet und in Brand setzt"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889217360207872
+    m_Localized: "Kugeln erhalten beim T\xF6ten {addOnKillDmgModifierFlat} zus\xE4tzlichen
+      Schaden"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889263577243648
+    m_Localized: "Kugeln wachsen um {addOnKillSizeModifierMult} nach jedem Kill und
+      f\xFCgen {addOnKillDmgModifierMult} zus\xE4tzlichen Schaden zu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889334100271104
+    m_Localized: "Wenn du Schaden erleidest, f\xFCgt dein n\xE4chster Schuss <color=orange>2x</color>
+      Schaden zu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889358754390016
+    m_Localized: "Aufeinanderfolgende Treffer verursachen einen sich stapelnden zus\xE4tzlichen
+      Schaden von {addConsecutiveHitDamageModifierFlat}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889445299658752
+    m_Localized: Verbrennende Gegner erleiden durch Blitzschlag {addConductiveFlamesDmgModifierMult}
+      Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889525540888576
+    m_Localized: "Du kannst bis zu {addCreditCardDebtLimit} W\xFCrmer an Schulden
+      anh\xE4ufen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889633053483008
+    m_Localized: "F\xFCge einem Gegner pro aufeinanderfolgendem kritischen Treffer
+      {addConsecutiveCriticalHitDamageModifierFlat} zus\xE4tzlichen Schaden zu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889659897028608
+    m_Localized: "Erh\xF6he die Feuerrate um {addFranticFirerateModMult}, solange
+      du unter 40% HP bist"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889672802902016
+    m_Localized: "Explosionen werden um {addGamblerBombMult} st\xE4rker von Zufallseffekten
+      beeinflusst"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889709977018368
+    m_Localized: Kugeln werden im Flug zu Splittern zerteilt (<color=orange>20%</color>)
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889757175521280
+    m_Localized: "Beim Stehen f\xFCr <color=orange>3s</color> erh\xE4ltst du dennoch
+      {addHaltDamageMult} Bonusgenauigkeit und {addHaltSpreadMult} zus\xE4tzlichen
+      Schaden f\xFCr <color=orange>6s</color>"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889826708692992
+    m_Localized: Blitz kann <color=orange>+1</color> Gegner durchdringen
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889844089888768
+    m_Localized: "Drohnen-Sch\xFCsse haben die Gr\xF6\xDFe {addDroneBulletSizeModifierMult}
+      und verursachen {addDroneBulletDamageModifierFlat} Schaden"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890018845564928
+    m_Localized: Kugeln wachsen im Laufe der Zeit und verursachen mehr Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890114727354368
+    m_Localized: "Kettenblitz kann bei Abprallern ausgel\xF6st werden"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890159409274880
+    m_Localized: "Erhalte <color=orange>50-60</color> W\xFCrmer"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890303089352704
+    m_Localized: "Aufeinanderfolgende Treffer an einem Gegner f\xFChren zu einem
+      kritischen Treffer"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890653888356352
+    m_Localized: "Wenn du Schaden erleidest, wird dein n\xE4chster Schuss kritisch
+      treffen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890886521233408
+    m_Localized: "Der Schuss pulsiert und verursacht <color=orange>+10</color> mehr
+      Schaden, wenn er gr\xF6\xDFer wird"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890913192812544
+    m_Localized: Shop-Artikel kosten {addRewardsCardDiscount} weniger
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890963482517504
+    m_Localized: "Explosionen schleudern {addShrapnel} Splittersch\xFCsse heraus"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891030813679616
+    m_Localized: "Splitter-Sch\xFCsse treffen immer kritisch"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891189178015744
+    m_Localized: "Ausweichen {addDashCooldownModifierMult} h\xE4ufiger"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891216277413888
+    m_Localized: "Erhalte {addWeakReplicationChance} Chance, nach dem Schuss einen
+      zweiten, schw\xE4cheren Schuss zu erzeugen"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32906566104653824
+    m_Localized: "Kugeln werden pro Abprall um {addBulletGrowthPerBounce} gr\xF6\xDFer"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32906653484589056
+    m_Localized: Blutschwamm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907407859523584
+    m_Localized: hungrige Kugel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907446795247616
+    m_Localized: "Blutvergie\xDFen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907472959315968
+    m_Localized: Wundenbildung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907504844414976
+    m_Localized: Leitende Flammen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907529922158592
+    m_Localized: Kreditkarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907554534334464
+    m_Localized: Fokussierter Angriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907588021657600
+    m_Localized: In die Enge getriebene Ratte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907612088573952
+    m_Localized: Zockerbombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907636948213760
+    m_Localized: Geistermesser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907659454849024
+    m_Localized: Halt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907674210410496
+    m_Localized: Hochspannung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907706544300032
+    m_Localized: Schwebende Kanone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907730024013824
+    m_Localized: Inflation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907752266407936
+    m_Localized: "gummibeschichtete Elektrizit\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907784902287360
+    m_Localized: Gehaltsscheck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907812156874752
+    m_Localized: AP-Munition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907835699503104
+    m_Localized: Drucknadel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907857954480128
+    m_Localized: pulsierender Schuss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907882939949056
+    m_Localized: Belohnungskarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907919602360320
+    m_Localized: Schrapnell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907932747309056
+    m_Localized: Splitterstich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907969149673472
+    m_Localized: "Kniebeugenst\xE4nder"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907989244583936
+    m_Localized: Schwache Replikation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33202470737027072
+    m_Localized: gummibeschichtetes HGH
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 822829599387811843
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 002032708ed974000070511a2f070000007051c333070000007051b545070000007051554a0700000070119d5c0700000070d16968070000007011396f0700000070d1c48907000000709141920700000070911f0d080000007051e51008000000701126240800000070517936080000007011e3390800000070912a78080000007051187c080000007011d595080000007091eba30800000070519c160a00000070d1f31b0a000000709117440a0000007091036a0a0000007051d9d90a0000007051237b0b0000007011ca850b000000705125d30b000000705159500c00000070d1e6a30c0000007091cbb20c000000701191ba0c000000a08c76e7be11000010d94d7dfb1d000010196f98fb1d00001019bfa4fb1d00001059adc2fb1d000010994ed9fb1d00001059dc79651e00001059f16e671e0000101925697d1e000040cbe125eb350000400b9333eb350000400b5f37eb35000040cb0a3ceb350000404b2e44eb350000400bea48eb350000e0d6e5f28545000020f221cb2148000020b2a591d87400002072689cd874000020f2d3acd8740000207291b2d874000020f2b7c6d874000020b266d9d874000020f26ef2d874000020f2aef8d87400002032b0fbd874000020f25704d97400002032550fd974000020b2851fd974000020b29123d974000020f2414cd974000020f29462d97400002032fc6cd974000020721de0d974000020724716da74000020327d1cda74000020b23228da74000020f2df37da7400002032bf5cda74000020720e63da7400002072f758e87400007011310b0700000070911002080000007051925c0c0000
