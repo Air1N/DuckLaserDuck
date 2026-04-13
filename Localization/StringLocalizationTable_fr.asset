@@ -1,0 +1,891 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 33ffca1712dce914c819667da64ecac0, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 822829599387811843
+  m_TableData:
+  - m_Id: 93865472000
+    m_Localized: jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109128544256
+    m_Localized: "param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123355623424
+    m_Localized: quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155660152832
+    m_Localized: "Param\xE8tres audio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173032960000
+    m_Localized: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188765794304
+    m_Localized: musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198702100480
+    m_Localized: effets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243346272256
+    m_Localized: retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259246878720
+    m_Localized: ne fais pas cela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316444602368
+    m_Localized: vraiment quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330428411904
+    m_Localized: laisse tomber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343481085952
+    m_Localized: "ta partie ne sera pas sauvegard\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376418955264
+    m_Localized: Choisissez-en un
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460086931456
+    m_Localized: Perforant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482526457856
+    m_Localized: "Fusil \xE0 pompe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495478468608
+    m_Localized: Mitrailleuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509835571200
+    m_Localized: Chercheur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568194891776
+    m_Localized: "rev\xEAtement en caoutchouc"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7744649261056
+    m_Localized: "les tirs ricochent sur les obstacles {addBouncinessCount} au lieu
+      d'\xEAtre d\xE9truits"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7761657163776
+    m_Localized: "Br\xFBlure"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7898886402048
+    m_Localized: "Ajoute {addBurnChance} de chance par tir d'enflammer les ennemis,
+      ajoutant {addBurnStacksPerShot} cumul(s) de d\xE9g\xE2ts de feu"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7913402888192
+    m_Localized: Givre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7918901620736
+    m_Localized: Ajoute {addFrostChance} de chance par tir de geler les ennemis avec
+      {addFrostStacksPerShot} cumul(s) de gel, les ralentissant
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7947909427200
+    m_Localized: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995976151040
+    m_Localized: "Ajoute {addPoisonChance} de chance par tir d'empoisonner les ennemis,
+      ajoutant {addPoisonStacksPerShot} cumul(s) de d\xE9g\xE2ts de poison"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8010836570112
+    m_Localized: Barrage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8015840374784
+    m_Localized: "Ajoute {addAdditionalProjectileChanceModifierFlat} de chance de
+      tirer {addProjectileCountModifierFlat} balle par tir, mais avec {addSpreadModifierFlat}
+      degr\xE9s d'\xE9cartement et {addSpreadModifierMult} de multiplicateur de dispersion"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8072048242688
+    m_Localized: "Mitrailleuse cha\xEEn\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8094353551360
+    m_Localized: "la cadence de tir et la dispersion augmentent plus vous tirez (max
+      {addChainGunMaxFirerateMult}/{addChainGunMaxSpreadMult}, apr\xE8s <color=orange>10</color>
+      secondes)"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8108177977344
+    m_Localized: "Cha\xEEne d'\xE9clairs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8145033326592
+    m_Localized: "Ajoute {addChainLightningOdds} de chance pour qu'un tir \xE9lectrocute
+      {addChainLightningQty} ennemi avec une cha\xEEne d'\xE9clairs"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8160229289984
+    m_Localized: Aura de dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8174280208384
+    m_Localized: "Laisse une grande aura de d\xE9g\xE2ts lors de ton dash, infligeant
+      20 d\xE9g\xE2ts \xE0 chaque ennemi et les repoussant l\xE9g\xE8rement"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8193129410560
+    m_Localized: Petit temps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288293974016
+    m_Localized: "Les balles deviennent {addBulletSizeModifierMult} plus petites,
+      mais infligent {addDmgModifierMult} fois plus de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8322968285184
+    m_Localized: Lent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8324746670080
+    m_Localized: "Les balles se d\xE9placent {addBulletSpeedModifierMult} plus lentement,
+      mais infligent {addDmgModifierMult} fois plus de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8371068563456
+    m_Localized: "R\xE9duire l'orbite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8804960923648
+    m_Localized: "Les balles orbitent {addOrbitRadius} de plus pr\xE8s"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8825185857536
+    m_Localized: "\u0152il d'aigle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8852457222144
+    m_Localized: "R\xE9duit la dispersion des balles de {addSpreadModifierMult}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8866847879168
+    m_Localized: Artillerie lourde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8868659818496
+    m_Localized: "D\xE9place-toi {addPlayerMoveSpeedModifier} unit\xE9s plus lentement,
+      mais +{addDmgModifierMult} d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8928302821376
+    m_Localized: Grande zone d'effet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8951350521856
+    m_Localized: Les zones d'effet deviennent plus grandes (explosions, etc.)
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8968329064448
+    m_Localized: Conservateurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030056636416
+    m_Localized: Les balles restent {addBulletLifetimeModifierMult} plus longtemps
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9039250550784
+    m_Localized: Gros tir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9044715728896
+    m_Localized: "Les balles deviennent {addBulletSizeModifierMult} plus grandes
+      et infligent {addDmgModifierMult} fois plus de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9151876001792
+    m_Localized: Vif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9312203272192
+    m_Localized: Les balles vont {addBulletSpeedModifierMult} plus vite
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9326321299456
+    m_Localized: "D'une pr\xE9cision redoutable"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9329076957184
+    m_Localized: Gagne {addCriticalHitChance} de chance de coup critique
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9436799266816
+    m_Localized: Blessure critique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9439617839104
+    m_Localized: "Gagne {addCriticalHitDamageMultiplier} de d\xE9g\xE2ts sur les
+      coups critiques"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9497310490624
+    m_Localized: Brrrt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9500124868608
+    m_Localized: Tire {addFirerateModifierFlat} tir(s) de plus par seconde
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11046778662912
+    m_Localized: Puissance de feu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11092228141056
+    m_Localized: "Inflige {addDmgModifierFlat} de d\xE9g\xE2ts suppl\xE9mentaires
+      par tir"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11110636941312
+    m_Localized: Augmenter l'orbite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11115170983936
+    m_Localized: Les balles orbitent plus loin
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11175640264704
+    m_Localized: Perforant+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11287569461248
+    m_Localized: "Les tirs traverseront {addPiercingBoost} ennemi(s) suppl\xE9mentaire(s)"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11446147706880
+    m_Localized: Glaucome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11450442674176
+    m_Localized: "Augmente la dispersion des balles de {addSpreadModifierMult}, mais
+      inflige {addDmgModifierMult} fois plus de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11927620251648
+    m_Localized: Recherche de chaleur+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11930770173952
+    m_Localized: Les projectiles ciblent mieux les ennemis
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12621756592128
+    m_Localized: Marathon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623501422592
+    m_Localized: "Courez {addPlayerMoveSpeedModifier} unit\xE9s plus rapidement,
+      mais le temps de recharge du dash est augment\xE9 de {addDashCooldownModifierMult}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12665796784128
+    m_Localized: Zoomies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12669248696320
+    m_Localized: "D\xE9place-toi {addPlayerMoveSpeedModifier} unit\xE9s plus rapidement"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12998375731200
+    m_Localized: Aime le RNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001492099072
+    m_Localized: "Gagne ou perds jusqu'\xE0 {addRandomizeDmgPercent} de d\xE9g\xE2ts
+      par tir"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13271315869696
+    m_Localized: Perforateur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13273228472320
+    m_Localized: "Gros d\xE9g\xE2ts perforants"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13379226923008
+    m_Localized: Mitrailleuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13424881922048
+    m_Localized: Tir rapide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13442019848192
+    m_Localized: Chercheur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13444804866048
+    m_Localized: Celui qui suit les ennemis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13485829353472
+    m_Localized: "Fusil \xE0 pompe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13488077500416
+    m_Localized: "Multiples balles, courte port\xE9e, grande dispersion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13533799608320
+    m_Localized: Explosif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13539235426304
+    m_Localized: "Gagne {addShotsExplodeChance} de chance que les tirs explosent
+      \xE0 l'impact, avec une taille augment\xE9e de {addExplosionSize}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13589348970496
+    m_Localized: "Puits de gravit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13591731335168
+    m_Localized: Les tirs tourneront autour de toi pendant un moment
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13625109606400
+    m_Localized: Recherche de chaleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13627122872320
+    m_Localized: Tous les projectiles suivront les ennemis
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13895210201088
+    m_Localized: La vitesse, c'est la puissance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13898091687936
+    m_Localized: "Inflige {addSpeedDMGCoeff} de ta vitesse actuelle comme d\xE9g\xE2ts
+      suppl\xE9mentaires"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13959844425728
+    m_Localized: Ondulant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13962059018240
+    m_Localized: "Les balles se d\xE9placent comme des serpents et infligent {addDmgModifierMult}
+      fois plus de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13991813410816
+    m_Localized: Top 1%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13995437289472
+    m_Localized: "Inflige {addWormDMGCoeff} de d\xE9g\xE2ts bonus \xE0 partir de
+      tes worms actuels"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 62414390390784
+    m_Localized: "r\xE9essayer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62440390881280
+    m_Localized: tu es mort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70849190260736
+    m_Localized: "s\xE9lectionnez l'am\xE9lioration"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70851060920320
+    m_Localized: "s\xE9lection"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652116405346304
+    m_Localized: Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994933052973056
+    m_Localized: la bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994975939731456
+    m_Localized: les coups critiques explosent toujours
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 4995173608890368
+    m_Localized: Crit-Explo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5185523640213504
+    m_Localized: Hexpyre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5189445176041472
+    m_Localized: Bugspray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202534072098816
+    m_Localized: E-Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5468339489775616
+    m_Localized: Carrion-B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439200199806976
+    m_Localized: couteau chaud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439289920163840
+    m_Localized: "les balles gagnent {addBulletSpeedModifierMult} de vitesse, mais
+      ont {addPiercingBoost} de p\xE9n\xE9tration"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439360548048896
+    m_Localized: puits fantomatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439406442123264
+    m_Localized: les projectiles en orbite traversent les murs
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439455565811712
+    m_Localized: "tir \xE9clat\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439459323908096
+    m_Localized: "Gagne {addSplinterShotChance} de chance que les tirs se divisent
+      en 2 morceaux \xE0 l'impact, chacun infligeant <color=orange>20%</color> des
+      d\xE9g\xE2ts originaux"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439586063192064
+    m_Localized: "explosion retard\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439587875131392
+    m_Localized: "gagne {addNotShootingFirerateBoostMult} de cadence de tir pendant
+      <color=orange>5s</color> apr\xE8s ne pas avoir tir\xE9 pendant <color=orange>5s</color>"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439683530428416
+    m_Localized: vaporiser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439685069737984
+    m_Localized: "Gagne {addVaporizingShotChance} de chance d'\xE9liminer instantan\xE9ment
+      un ennemi \xE0 l'impact (uniquement pour les non-boss)"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8555821761368064
+    m_Localized: "chargeur \xE0 tambour"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8555823363592192
+    m_Localized: "tire {addFirerateModifierMult} tir(s) de plus par seconde, mais
+      avec {addSpreadModifierFlat} degr\xE9s de dispersion et {addSpreadModifierMult}
+      de spread"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8557973586120704
+    m_Localized: "tir acc\xE9l\xE9r\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8557975494529024
+    m_Localized: la vitesse du tir commence lentement {addAcceleratingShotStartSpeed}
+      et augmente au fil du temps {addAcceleratingShotAccelRate}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8582138313641984
+    m_Localized: esquive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582139848757248
+    m_Localized: "subis {addAvoidanceDefense} de d\xE9g\xE2ts en moins plus tu bouges
+      vite"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8582328907010048
+    m_Localized: inertie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582330416959488
+    m_Localized: le mouvement a de l'inertie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176721700175872
+    m_Localized: "r\xE9duis la sant\xE9 des ennemis de {addBugsprayPercent}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176755212664832
+    m_Localized: Explosions critiques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176780508512256
+    m_Localized: les explosions sont toujours critiques
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176796815966208
+    m_Localized: "les cr\xE9atures explosent \xE0 la mort"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176816877322240
+    m_Localized: les coups critiques explosent toujours
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176851832651776
+    m_Localized: "la foudre se d\xE9clenche toujours"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176872162443264
+    m_Localized: "les effets \xE9l\xE9mentaires s'appliquent \xE0 chaque tir, avec
+      moins de cumul par tir"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 19569029032632320
+    m_Localized: nuage gazeux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19569051677679616
+    m_Localized: "les ennemis empoisonn\xE9s \xE9mettent un nuage de gaz toxique,
+      qui empoisonne les ennemis"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 20303331854524416
+    m_Localized: "fum\xE9es br\xFBlantes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20303354654760960
+    m_Localized: "les ennemis atteints de poison + br\xFBlure \xE9mettent un grand
+      nuage de gaz br\xFBlant, qui empoisonne et enflamme les ennemis"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889217360207872
+    m_Localized: "les balles gagnent {addOnKillDmgModifierFlat} de d\xE9g\xE2ts \xE0
+      chaque \xE9limination"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889263577243648
+    m_Localized: "les balles grossissent de {addOnKillSizeModifierMult} apr\xE8s
+      chaque \xE9limination, et gagnent {addOnKillDmgModifierMult} de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889334100271104
+    m_Localized: "Lorsque tu subis des d\xE9g\xE2ts, ton prochain tir inflige <color=orange>2x</color>
+      de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889358754390016
+    m_Localized: "les coups cons\xE9cutifs infligent des d\xE9g\xE2ts cumul\xE9s
+      augment\xE9s de {addConsecutiveHitDamageModifierFlat}"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889445299658752
+    m_Localized: "les ennemis enflamm\xE9s subissent {addConductiveFlamesDmgModifierMult}
+      de d\xE9g\xE2ts de la foudre"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889525540888576
+    m_Localized: tu peux accumuler {addCreditCardDebtLimit} worms de dette
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889633053483008
+    m_Localized: "inflige {addConsecutiveCriticalHitDamageModifierFlat} de d\xE9g\xE2ts
+      suppl\xE9mentaires par coup critique cons\xE9cutif \xE0 un ennemi"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889659897028608
+    m_Localized: augmente la cadence de tir de {addFranticFirerateModMult} quand
+      tes PV sont en dessous de 40%
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889672802902016
+    m_Localized: "les explosions sont affect\xE9es {addGamblerBombMult} de plus par
+      les effets de chance"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889709977018368
+    m_Localized: "les balles se d\xE9sint\xE8grent en \xE9clats \xE0 <color=orange>20%</color>
+      en vol"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889757175521280
+    m_Localized: "rester debout pendant <color=orange>3s</color> accorde toujours
+      {addHaltDamageMult} de pr\xE9cision bonus et {addHaltSpreadMult} de d\xE9g\xE2ts
+      pendant <color=orange>6s</color>"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889826708692992
+    m_Localized: la foudre peut percer <color=orange>+1</orange> ennemi
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889844089888768
+    m_Localized: "les tirs des drones sont de taille {addDroneBulletSizeModifierMult}
+      et infligent {addDroneBulletDamageModifierFlat} de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890018845564928
+    m_Localized: "les balles grossissent avec le temps, infligeant plus de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890114727354368
+    m_Localized: "la cha\xEEne d'\xE9clairs peut se d\xE9clencher sur les rebonds"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890159409274880
+    m_Localized: gagne <color=orange>50-60</color> worms
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890303089352704
+    m_Localized: "les coups cons\xE9cutifs sur un ennemi seront critiques"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890653888356352
+    m_Localized: "lorsque tu subis des d\xE9g\xE2ts, ton prochain tir sera critique"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890886521233408
+    m_Localized: "le tir palpite et inflige <color=orange>+10</color> de d\xE9g\xE2ts
+      suppl\xE9mentaires lorsqu'il est agrandi"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890913192812544
+    m_Localized: "les articles de la boutique co\xFBtent {addRewardsCardDiscount}
+      de moins"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890963482517504
+    m_Localized: "les explosions projettent {addShrapnel} tirs d'\xE9clats"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891030813679616
+    m_Localized: "les tirs \xE9clat\xE9s sont toujours critiques"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891189178015744
+    m_Localized: dash {addDashCooldownModifierMult} plus souvent
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891216277413888
+    m_Localized: "Gagne {addWeakReplicationChance} de chance de faire appara\xEEtre
+      un second tir, plus faible, apr\xE8s avoir tir\xE9"
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32906566104653824
+    m_Localized: les balles grossissent de {addBulletGrowthPerBounce} par rebond
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32906653484589056
+    m_Localized: "\xE9ponge sanguine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907407859523584
+    m_Localized: "balle affam\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907446795247616
+    m_Localized: "saign\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907472959315968
+    m_Localized: blessure croissante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907504844414976
+    m_Localized: flammes conductrices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907529922158592
+    m_Localized: "carte de cr\xE9dit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907554534334464
+    m_Localized: "assaut concentr\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907588021657600
+    m_Localized: "rat accul\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907612088573952
+    m_Localized: bombe du parieur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907636948213760
+    m_Localized: "couteau fant\xF4me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907659454849024
+    m_Localized: "arr\xEAt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907674210410496
+    m_Localized: haute tension
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907706544300032
+    m_Localized: canon flottant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907730024013824
+    m_Localized: inflation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907752266407936
+    m_Localized: "\xE9lectricit\xE9 caoutchout\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907784902287360
+    m_Localized: salaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907812156874752
+    m_Localized: munitions AP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907835699503104
+    m_Localized: aiguille sous pression
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907857954480128
+    m_Localized: "tir puls\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907882939949056
+    m_Localized: "carte de r\xE9compense"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907919602360320
+    m_Localized: "\xE9clats"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907932747309056
+    m_Localized: "piq\xFBre \xE9clat\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907969149673472
+    m_Localized: "rack \xE0 squats"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907989244583936
+    m_Localized: "r\xE9plication faible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33202470737027072
+    m_Localized: "HGH caoutchout\xE9"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 822829599387811843
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 002032708ed974000070511a2f070000007051c333070000007051b545070000007051554a0700000070119d5c0700000070d16968070000007011396f0700000070d1c48907000000709141920700000070911f0d080000007051e51008000000701126240800000070517936080000007011e3390800000070912a78080000007051187c080000007011d595080000007091eba30800000070519c160a00000070d1f31b0a000000709117440a0000007091036a0a0000007051d9d90a0000007051237b0b0000007011ca850b000000705125d30b000000705159500c00000070d1e6a30c0000007091cbb20c000000701191ba0c000000a08c76e7be11000010d94d7dfb1d000010196f98fb1d00001019bfa4fb1d00001059adc2fb1d000010994ed9fb1d00001059dc79651e00001059f16e671e0000101925697d1e000040cbe125eb350000400b9333eb350000400b5f37eb35000040cb0a3ceb350000404b2e44eb350000400bea48eb350000e0d6e5f28545000020f221cb2148000020b2a591d87400002072689cd874000020f2d3acd8740000207291b2d874000020f2b7c6d874000020b266d9d874000020f26ef2d874000020f2aef8d87400002032b0fbd874000020f25704d97400002032550fd974000020b2851fd974000020b29123d974000020f2414cd974000020f29462d97400002032fc6cd974000020721de0d974000020724716da74000020327d1cda74000020b23228da74000020f2df37da7400002032bf5cda74000020720e63da7400002072f758e87400007011310b0700000070911002080000007051925c0c0000

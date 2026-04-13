@@ -1,0 +1,776 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringLocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringLocalizationTable
+  m_TableCollectionNameGuidString: 33ffca1712dce914c819667da64ecac0
+  m_Entries:
+  - m_Id: 93865472000
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109128544256
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123355623424
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155660152832
+    m_Key: audioSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173032960000
+    m_Key: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188765794304
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198702100480
+    m_Key: effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243346272256
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259246878720
+    m_Key: dontDoIt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316444602368
+    m_Key: reallyQuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330428411904
+    m_Key: nevermind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343481085952
+    m_Key: yourGameWontBeSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376418955264
+    m_Key: chooseOne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460086931456
+    m_Key: Piercer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482526457856
+    m_Key: Shotty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495478468608
+    m_Key: Machinegun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509835571200
+    m_Key: Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568194891776
+    m_Key: rubber coatingTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7744649261056
+    m_Key: rubber coatingDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7761657163776
+    m_Key: burnTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7898886402048
+    m_Key: burnDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7913402888192
+    m_Key: frostTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7918901620736
+    m_Key: frostDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947909427200
+    m_Key: poisonTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995976151040
+    m_Key: poisonDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8010836570112
+    m_Key: barrageTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8015840374784
+    m_Key: barrageDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8072048242688
+    m_Key: chaingunTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8094353551360
+    m_Key: chaingunDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8108177977344
+    m_Key: chain lightningTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8145033326592
+    m_Key: chain lightningDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8160229289984
+    m_Key: dash auraTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8174280208384
+    m_Key: dash auraDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8193129410560
+    m_Key: small timeTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288293974016
+    m_Key: small timeDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8322968285184
+    m_Key: sluggishTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8324746670080
+    m_Key: sluggishDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8371068563456
+    m_Key: shrink orbitTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8804960923648
+    m_Key: shrink orbitDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8825185857536
+    m_Key: eagle eyeTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8852457222144
+    m_Key: eagle eyeDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8866847879168
+    m_Key: heavy artilleryTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8868659818496
+    m_Key: heavy artilleryDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8928302821376
+    m_Key: big AOETitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8951350521856
+    m_Key: big AOEDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8968329064448
+    m_Key: preservativesTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030056636416
+    m_Key: preservativesDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9039250550784
+    m_Key: big shotTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9044715728896
+    m_Key: big shotDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9151876001792
+    m_Key: zippyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9312203272192
+    m_Key: zippyDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9326321299456
+    m_Key: painfully accurateTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9329076957184
+    m_Key: painfully accurateDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9436799266816
+    m_Key: critical injuryTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9439617839104
+    m_Key: critical injuryDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9497310490624
+    m_Key: brrrtTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9500124868608
+    m_Key: brrrtDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11046778662912
+    m_Key: firepowerTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11092228141056
+    m_Key: firepowerDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11110636941312
+    m_Key: grow orbitTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11115170983936
+    m_Key: grow orbitDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11175640264704
+    m_Key: piercingTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11287569461248
+    m_Key: piercingDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11446147706880
+    m_Key: glaucomaTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11450442674176
+    m_Key: glaucomaDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11927620251648
+    m_Key: heat seeking+Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11930770173952
+    m_Key: heat seeking+Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12621756592128
+    m_Key: marathonTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623501422592
+    m_Key: marathonDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12665796784128
+    m_Key: zoomiesTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12669248696320
+    m_Key: zoomiesDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12998375731200
+    m_Key: love rngTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001492099072
+    m_Key: love rngDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13271315869696
+    m_Key: piercerTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13273228472320
+    m_Key: piercerDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13379226923008
+    m_Key: machinegunTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13424881922048
+    m_Key: machinegunDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13442019848192
+    m_Key: seekerTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13444804866048
+    m_Key: seekerDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13485829353472
+    m_Key: shottyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13488077500416
+    m_Key: shottyDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13533799608320
+    m_Key: explosiveTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13539235426304
+    m_Key: explosiveDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13589348970496
+    m_Key: gravity wellTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13591731335168
+    m_Key: gravity wellDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13625109606400
+    m_Key: heat seekingTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13627122872320
+    m_Key: heat seekingDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13895210201088
+    m_Key: speed is powerTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13898091687936
+    m_Key: speed is powerDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13959844425728
+    m_Key: wigglyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13962059018240
+    m_Key: wigglyDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13991813410816
+    m_Key: top 1%Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13995437289472
+    m_Key: top 1%Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62414390390784
+    m_Key: retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62440390881280
+    m_Key: you ded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70849190260736
+    m_Key: selectUpgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70851060920320
+    m_Key: select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652116405346304
+    m_Key: droneTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994933052973056
+    m_Key: the bombTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994975939731456
+    m_Key: the bombDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4995173608890368
+    m_Key: Crit-ExploTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5185523640213504
+    m_Key: HexpyreTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5189445176041472
+    m_Key: BugsprayTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202534072098816
+    m_Key: E-HammerTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5468339489775616
+    m_Key: Carrion-BTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439200199806976
+    m_Key: hot knifeTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439289920163840
+    m_Key: hot knifeDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439360548048896
+    m_Key: phantom wellTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439406442123264
+    m_Key: phantom wellDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439455565811712
+    m_Key: splinter shotTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439459323908096
+    m_Key: splinter shotDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439586063192064
+    m_Key: stall burstTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439587875131392
+    m_Key: stall burstDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439683530428416
+    m_Key: vaporizeTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439685069737984
+    m_Key: vaporizeDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8555821761368064
+    m_Key: drum magTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8555823363592192
+    m_Key: drum magDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8557973586120704
+    m_Key: accelerating shotTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8557975494529024
+    m_Key: accelerating shotDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582138313641984
+    m_Key: avoidanceTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582139848757248
+    m_Key: avoidanceDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582328907010048
+    m_Key: inertiaTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582330416959488
+    m_Key: inertiaDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176721700175872
+    m_Key: BugsprayDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176755212664832
+    m_Key: Critical BlastsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176780508512256
+    m_Key: Critical BlastsDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176796815966208
+    m_Key: Carrion-BDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176816877322240
+    m_Key: Crit-ExploDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176851832651776
+    m_Key: E-HammerDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176872162443264
+    m_Key: HexpyreDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19569029032632320
+    m_Key: gaseous cloudTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19569051677679616
+    m_Key: gaseous cloudDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20303331854524416
+    m_Key: burning fumesTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20303354654760960
+    m_Key: burning fumesDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889217360207872
+    m_Key: blood spongeDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889263577243648
+    m_Key: hungry bulletDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889334100271104
+    m_Key: bloodlettingDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889358754390016
+    m_Key: building woundDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889445299658752
+    m_Key: conductive flamesDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889525540888576
+    m_Key: credit cardDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889633053483008
+    m_Key: focused assaultDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889659897028608
+    m_Key: cornered ratDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889672802902016
+    m_Key: gambler bombDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889709977018368
+    m_Key: ghost knifeDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889757175521280
+    m_Key: haltDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889826708692992
+    m_Key: high voltageDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32889844089888768
+    m_Key: hovering cannonDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890018845564928
+    m_Key: inflationDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890114727354368
+    m_Key: rubberized electricityDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890159409274880
+    m_Key: paycheckDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890303089352704
+    m_Key: ap roundsDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890653888356352
+    m_Key: pressurized needleDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890886521233408
+    m_Key: pulsing shotDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890913192812544
+    m_Key: rewards cardDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32890963482517504
+    m_Key: shrapnelDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32891030813679616
+    m_Key: splinter stingDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32891189178015744
+    m_Key: squat rackDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32891216277413888
+    m_Key: weak replicationDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32906566104653824
+    m_Key: rubberized HGHDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32906653484589056
+    m_Key: blood spongeTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907407859523584
+    m_Key: hungry bulletTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907446795247616
+    m_Key: bloodlettingTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907472959315968
+    m_Key: building woundTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907504844414976
+    m_Key: conductive flamesTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907529922158592
+    m_Key: credit cardTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907554534334464
+    m_Key: focused assaultTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907588021657600
+    m_Key: cornered ratTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907612088573952
+    m_Key: gambler bombTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907636948213760
+    m_Key: ghost knifeTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907659454849024
+    m_Key: haltTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907674210410496
+    m_Key: high voltageTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907706544300032
+    m_Key: hovering cannonTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907730024013824
+    m_Key: inflationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907752266407936
+    m_Key: rubberized electricityTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907784902287360
+    m_Key: paycheckTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907812156874752
+    m_Key: ap roundsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907835699503104
+    m_Key: pressurized needleTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907857954480128
+    m_Key: pulsing shotTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907882939949056
+    m_Key: rewards cardTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907919602360320
+    m_Key: shrapnelTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907932747309056
+    m_Key: splinter stingTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907969149673472
+    m_Key: squat rackTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907989244583936
+    m_Key: weak replicationTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33202470737027072
+    m_Key: rubberized HGHTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43729853730660352
+    m_Key: dual wieldTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43729921120542720
+    m_Key: dual wieldDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148933345167941632
+    m_Key: shootToStop
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6043814320874717212
+  references:
+    version: 2
+    RefIds:
+    - rid: 6043814320874717212
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1736040336095

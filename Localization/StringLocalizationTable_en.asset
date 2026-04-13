@@ -1,0 +1,885 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 33ffca1712dce914c819667da64ecac0, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 822829599387811843
+  m_TableData:
+  - m_Id: 93865472000
+    m_Localized: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109128544256
+    m_Localized: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123355623424
+    m_Localized: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155660152832
+    m_Localized: Audio Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173032960000
+    m_Localized: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188765794304
+    m_Localized: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198702100480
+    m_Localized: effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243346272256
+    m_Localized: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259246878720
+    m_Localized: don't do this
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316444602368
+    m_Localized: really quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330428411904
+    m_Localized: nevermind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343481085952
+    m_Localized: your game won't be saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376418955264
+    m_Localized: Choose One
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460086931456
+    m_Localized: Piercing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482526457856
+    m_Localized: Shotty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495478468608
+    m_Localized: Machinegun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509835571200
+    m_Localized: Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568194891776
+    m_Localized: rubber coating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7744649261056
+    m_Localized: shots ricochet off obstacles {addBouncinessCount} instead of being
+      destroyed
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7761657163776
+    m_Localized: Burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7898886402048
+    m_Localized: Adds {addBurnChance} chance per shot to light enemies on fire, adding
+      {addBurnStacksPerShot} stacks of fire damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7913402888192
+    m_Localized: Frost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7918901620736
+    m_Localized: Adds {addFrostChance} chance per shot to freeze enemies with {addFrostStacksPerShot}
+      stacks of frost, slowing them
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 7947909427200
+    m_Localized: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995976151040
+    m_Localized: Adds {addPoisonChance} chance per shot to poison enemies, adding
+      {addPoisonStacksPerShot} stacks of poison damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8010836570112
+    m_Localized: Barrage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8015840374784
+    m_Localized: Adds {addAdditionalProjectileChanceModifierFlat} chance to shoot
+      {addProjectileCountModifierFlat} bullet per shot, but {addSpreadModifierFlat}
+      degrees shot spread, and {addSpreadModifierMult} shot spread
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8072048242688
+    m_Localized: Chaingun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8094353551360
+    m_Localized: firerate and spread ramp up the longer you fire (max {addChainGunMaxFirerateMult}/{addChainGunMaxSpreadMult},
+      after <color=orange>10</color> seconds)
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8108177977344
+    m_Localized: Chain Lightning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8145033326592
+    m_Localized: Adds {addChainLightningOdds} chance for a shot to zap {addChainLightningQty}
+      enemy with chain lightning
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8160229289984
+    m_Localized: Dash Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8174280208384
+    m_Localized: Leave a big damaging aura when you dash, dealing 20 damage to every
+      enemy and pushing them back slightly
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8193129410560
+    m_Localized: Small Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288293974016
+    m_Localized: Bullets get {addBulletSizeModifierMult} smaller, but deal {addDmgModifierMult}
+      more damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8322968285184
+    m_Localized: Sluggish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8324746670080
+    m_Localized: Bullets move {addBulletSpeedModifierMult} slower, but deal {addDmgModifierMult}
+      more damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8371068563456
+    m_Localized: Shrink Orbit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8804960923648
+    m_Localized: Bullets orbit {addOrbitRadius} closer
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8825185857536
+    m_Localized: Eagle Eye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8852457222144
+    m_Localized: Reduces bullet spread by {addSpreadModifierMult}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8866847879168
+    m_Localized: Heavy Artillery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8868659818496
+    m_Localized: Move {addPlayerMoveSpeedModifier} units slower, but +{addDmgModifierMult}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8928302821376
+    m_Localized: Big AOE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8951350521856
+    m_Localized: Areas of effect get larger (explosions, etc.)
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8968329064448
+    m_Localized: Preservatives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030056636416
+    m_Localized: Bullets stay around {addBulletLifetimeModifierMult} longer
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9039250550784
+    m_Localized: Big Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9044715728896
+    m_Localized: Bullets get {addBulletSizeModifierMult} bigger and deal {addDmgModifierMult}
+      more damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9151876001792
+    m_Localized: Zippy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9312203272192
+    m_Localized: Bullets go {addBulletSpeedModifierMult} faster
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9326321299456
+    m_Localized: Painfully Accurate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9329076957184
+    m_Localized: Gain {addCriticalHitChance} crit chance
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9436799266816
+    m_Localized: Critical Injury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9439617839104
+    m_Localized: Gain {addCriticalHitDamageMultiplier} damage on critical hits
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 9497310490624
+    m_Localized: Brrrt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9500124868608
+    m_Localized: Shoot {addFirerateModifierFlat} more shots per second
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11046778662912
+    m_Localized: Firepower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11092228141056
+    m_Localized: Deal {addDmgModifierFlat} more damage per shot
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11110636941312
+    m_Localized: Grow Orbit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11115170983936
+    m_Localized: Bullets orbit further away
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11175640264704
+    m_Localized: Piercing+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11287569461248
+    m_Localized: Shots will continue through {addPiercingBoost} extra enemy
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11446147706880
+    m_Localized: Glaucoma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11450442674176
+    m_Localized: Increase bullet spread by {addSpreadModifierMult}, but deal {addDmgModifierMult}
+      more damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 11927620251648
+    m_Localized: Heat Seeking+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11930770173952
+    m_Localized: Projectiles seek enemies better
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12621756592128
+    m_Localized: Marathon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623501422592
+    m_Localized: Run {addPlayerMoveSpeedModifier} units faster, but dash cooldown
+      increased by {addDashCooldownModifierMult}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12665796784128
+    m_Localized: Zoomies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12669248696320
+    m_Localized: Move {addPlayerMoveSpeedModifier} units faster
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 12998375731200
+    m_Localized: Love RNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001492099072
+    m_Localized: Gain or lose up to {addRandomizeDmgPercent} damage per shot
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13271315869696
+    m_Localized: Piercer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13273228472320
+    m_Localized: Big piercing damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13379226923008
+    m_Localized: Machinegun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13424881922048
+    m_Localized: Rapidfire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13442019848192
+    m_Localized: Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13444804866048
+    m_Localized: That which follows enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13485829353472
+    m_Localized: Shotty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13488077500416
+    m_Localized: Multiple bullets, short range, high spread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13533799608320
+    m_Localized: Explosive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13539235426304
+    m_Localized: Gain {addShotsExplodeChance} chance for shots to explode on-hit,
+      with {addExplosionSize} increased size
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13589348970496
+    m_Localized: Gravity Well
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13591731335168
+    m_Localized: Shots will orbit you for a while
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13625109606400
+    m_Localized: Heat Seeking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13627122872320
+    m_Localized: All projectiles will track enemies
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13895210201088
+    m_Localized: Speed Is Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13898091687936
+    m_Localized: Deal {addSpeedDMGCoeff} of current movespeed as bonus damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13959844425728
+    m_Localized: Wiggly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13962059018240
+    m_Localized: Bullets move like snakes and deal {addDmgModifierMult} more damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 13991813410816
+    m_Localized: Top 1%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13995437289472
+    m_Localized: Deal {addWormDMGCoeff} of current worms as bonus damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 62414390390784
+    m_Localized: retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62440390881280
+    m_Localized: you ded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70849190260736
+    m_Localized: select upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70851060920320
+    m_Localized: select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652116405346304
+    m_Localized: Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994933052973056
+    m_Localized: the bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994975939731456
+    m_Localized: critical hits always explode
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 4995173608890368
+    m_Localized: Crit-Explo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5185523640213504
+    m_Localized: Hexpyre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5189445176041472
+    m_Localized: Bugspray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202534072098816
+    m_Localized: E-Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5468339489775616
+    m_Localized: Carrion-B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439200199806976
+    m_Localized: hot knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439289920163840
+    m_Localized: bullets get {addBulletSpeedModifierMult} speed, but have {addPiercingBoost}
+      piercing
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439360548048896
+    m_Localized: phantom well
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439406442123264
+    m_Localized: orbiting projectiles pass through walls
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439455565811712
+    m_Localized: splinter shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439459323908096
+    m_Localized: Gain {addSplinterShotChance} chance for shots split into 2 pieces
+      on-hit, each dealing <color=orange>20%</color> of the original damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439586063192064
+    m_Localized: stall burst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439587875131392
+    m_Localized: gain {addNotShootingFirerateBoostMult} firerate for <color=orange>5s</color>
+      after not shooting for <color=orange>5s</color>
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8439683530428416
+    m_Localized: vaporize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439685069737984
+    m_Localized: Gain {addVaporizingShotChance} chance to instantly kill an enemy
+      on-hit (non-bosses only)
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8555821761368064
+    m_Localized: drum mag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8555823363592192
+    m_Localized: shoot {addFirerateModifierMult} more shots per second, but {addSpreadModifierFlat}
+      degrees of, and {addSpreadModifierMult} more shot spread
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8557973586120704
+    m_Localized: accelerating shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8557975494529024
+    m_Localized: shot's speed starts slow {addAcceleratingShotStartSpeed} and increase
+      over time {addAcceleratingShotAccelRate}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8582138313641984
+    m_Localized: avoidance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582139848757248
+    m_Localized: take {addAvoidanceDefense} less damage the faster you move
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 8582328907010048
+    m_Localized: inertia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582330416959488
+    m_Localized: movement has inertia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176721700175872
+    m_Localized: reduce enemy health by {addBugsprayPercent}
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176755212664832
+    m_Localized: Critical Blasts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176780508512256
+    m_Localized: explosions always crit
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176796815966208
+    m_Localized: creatures explode on death
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176816877322240
+    m_Localized: critical hits always explode
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176851832651776
+    m_Localized: lightning always triggers
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 15176872162443264
+    m_Localized: elemental effects apply to every shot, with less stacks per shot
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 19569029032632320
+    m_Localized: gaseous cloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19569051677679616
+    m_Localized: poisoned enemies emit a poison gas cloud, which poisons enemies
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 20303331854524416
+    m_Localized: burning fumes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20303354654760960
+    m_Localized: enemies with poison + burn emit a large burning gas cloud, which
+      poisons and sets enemies on fire
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889217360207872
+    m_Localized: bullets gain {addOnKillDmgModifierFlat} damage on kill
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889263577243648
+    m_Localized: bullets grow {addOnKillSizeModifierMult} after every kill, and gains
+      {addOnKillDmgModifierMult} damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889334100271104
+    m_Localized: When you take damage, your next shot deals <color=orange>2x</color>
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889358754390016
+    m_Localized: consecutive hits deal stacking {addConsecutiveHitDamageModifierFlat}
+      increased damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889445299658752
+    m_Localized: Burning enemies take {addConductiveFlamesDmgModifierMult} damage
+      from lightning
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889525540888576
+    m_Localized: you can go {addCreditCardDebtLimit} worms into debt
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889633053483008
+    m_Localized: deal {addConsecutiveCriticalHitDamageModifierFlat} increased damage
+      per consecutive crit to an enemy
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889659897028608
+    m_Localized: increase firerate by {addFranticFirerateModMult} while below 40%
+      HP
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889672802902016
+    m_Localized: explosions are affected {addGamblerBombMult} more by chance effects
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889709977018368
+    m_Localized: bullets are cut to splinters <color=orange>20%</color> through flight
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889757175521280
+    m_Localized: standing for <color=orange>3s</color> still grants {addHaltDamageMult}
+      bonus accuracy and {addHaltSpreadMult} damage for <color=orange>6s</color>
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889826708692992
+    m_Localized: lightning can pierce <color=orange>+1</orange> enemy
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32889844089888768
+    m_Localized: drone shots are {addDroneBulletSizeModifierMult} size and deal {addDroneBulletDamageModifierFlat}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890018845564928
+    m_Localized: bullets grow over time, dealing more damage
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890114727354368
+    m_Localized: chain lightning can trigger on bounces
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890159409274880
+    m_Localized: gain <color=orange>50-60</color> worms
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890303089352704
+    m_Localized: consecutive hits on an enemy will crit
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890653888356352
+    m_Localized: when you take damage, your next shot crits
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890886521233408
+    m_Localized: shot pulses and deals <color=orange>+10</color> more damage when
+      it's bigger
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890913192812544
+    m_Localized: shop items cost {addRewardsCardDiscount} less
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32890963482517504
+    m_Localized: explosions shoot out {addShrapnel} shrapnel shots
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891030813679616
+    m_Localized: splinter shots always crit
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891189178015744
+    m_Localized: dash {addDashCooldownModifierMult} more often
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32891216277413888
+    m_Localized: Gain {addWeakReplicationChance} chance to spawn a second, weaker
+      shot after shooting
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32906566104653824
+    m_Localized: bullets get {addBulletGrowthPerBounce} bigger per bounce
+    m_Metadata:
+      m_Items:
+      - rid: 822829599387811843
+  - m_Id: 32906653484589056
+    m_Localized: blood sponge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907407859523584
+    m_Localized: hungry bullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907446795247616
+    m_Localized: bloodletting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907472959315968
+    m_Localized: building wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907504844414976
+    m_Localized: conductive flames
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907529922158592
+    m_Localized: credit card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907554534334464
+    m_Localized: focused assault
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907588021657600
+    m_Localized: cornered rat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907612088573952
+    m_Localized: gambler bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907636948213760
+    m_Localized: ghost knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907659454849024
+    m_Localized: halt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907674210410496
+    m_Localized: high voltage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907706544300032
+    m_Localized: hovering cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907730024013824
+    m_Localized: inflation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907752266407936
+    m_Localized: rubberized electricity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907784902287360
+    m_Localized: paycheck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907812156874752
+    m_Localized: ap rounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907835699503104
+    m_Localized: pressurized needle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907857954480128
+    m_Localized: pulsing shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907882939949056
+    m_Localized: rewards card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907919602360320
+    m_Localized: shrapnel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907932747309056
+    m_Localized: splinter sting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907969149673472
+    m_Localized: squat rack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907989244583936
+    m_Localized: weak replication
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33202470737027072
+    m_Localized: rubberized HGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43729921120542720
+    m_Localized: Shoot 2x as fast but bullets deal 1/2 damage, and gain 20% spread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43729853730660352
+    m_Localized: dual wield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148933345167941632
+    m_Localized: shoot to stop
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 822829599387811843
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 002032708ed974000070511a2f070000007051c333070000007051b545070000007051554a0700000070119d5c0700000070d16968070000007011396f0700000070d1c48907000000709141920700000070911f0d080000007051e51008000000701126240800000070517936080000007011e3390800000070912a78080000007051187c080000007011d595080000007091eba30800000070519c160a00000070d1f31b0a000000709117440a0000007091036a0a0000007051d9d90a0000007051237b0b0000007011ca850b000000705125d30b000000705159500c00000070d1e6a30c0000007091cbb20c000000701191ba0c000000a08c76e7be11000010d94d7dfb1d000010196f98fb1d00001019bfa4fb1d00001059adc2fb1d000010994ed9fb1d00001059dc79651e00001059f16e671e0000101925697d1e000040cbe125eb350000400b9333eb350000400b5f37eb35000040cb0a3ceb350000404b2e44eb350000400bea48eb350000e0d6e5f28545000020f221cb2148000020b2a591d87400002072689cd874000020f2d3acd8740000207291b2d874000020f2b7c6d874000020b266d9d874000020f26ef2d874000020f2aef8d87400002032b0fbd874000020f25704d97400002032550fd974000020b2851fd974000020b29123d974000020f2414cd974000020f29462d97400002032fc6cd974000020721de0d974000020724716da74000020327d1cda74000020b23228da74000020f2df37da7400002032bf5cda74000020720e63da7400002072f758e87400007011310b0700000070911002080000007051925c0c00000070d1cf640c0000
