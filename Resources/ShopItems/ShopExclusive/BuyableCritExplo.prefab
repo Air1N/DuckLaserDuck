@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8256167175326796491
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1212374948781358260, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212374948781358260, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212374948781358260, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212374948781358260, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212374948781358260, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212374948781358260, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2233925495540584328, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2488925858812465518, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485353849451044052, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: title
+      value: crit_explo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485353849451044052, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: rarity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485353849451044052, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: isUpgrade
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485353849451044052, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: upgradeData
+      value: 
+      objectReference: {fileID: 655216661138894423}
+    - target: {fileID: 4099114456742707173, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099114456742707173, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099114456742707173, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099114456742707173, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099114456742707173, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4099114456742707173, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4620922119727250103, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec9f5a9bf4e784f4aa206b4f88f32562, type: 3}
+    - target: {fileID: 5575606862643721441, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575606862643721441, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 4995173608890368
+      objectReference: {fileID: 0}
+    - target: {fileID: 7355154388497056276, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec9f5a9bf4e784f4aa206b4f88f32562, type: 3}
+    - target: {fileID: 7744493732411442232, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_Name
+      value: BuyableCritExplo
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832016006056125105, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: cost
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832016006056125105, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: prefabToSpawnOnBuy
+      value: 
+      objectReference: {fileID: 9160057271849674234, guid: 3c488f3327622ce49a07862f379711e5, type: 3}
+    - target: {fileID: 7832016006056125105, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: hasPopupDescription
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8496366798399153679, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      propertyPath: m_text
+      value: Crit-Explo
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7744493732411442232, guid: 6a675543f64076042b70e84247aef098, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 655216661138894423}
+  m_SourcePrefab: {fileID: 100100000, guid: 6a675543f64076042b70e84247aef098, type: 3}
+--- !u!1 &1867362487763439347 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7744493732411442232, guid: 6a675543f64076042b70e84247aef098, type: 3}
+  m_PrefabInstance: {fileID: 8256167175326796491}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &655216661138894423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867362487763439347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75b214434e165424cbe7b07999901205, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: ec9f5a9bf4e784f4aa206b4f88f32562, type: 3}
+  rarity: 2
+  title: crit_explo
+  description: 
+  requirements:
+  - AnyProjectile
+  - painfully accurate
+  - explosive
+  maxLevel: 1
+  parentToPlayerHead: 0
+  parentToPlayerFeet: 0

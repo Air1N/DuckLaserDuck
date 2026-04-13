@@ -1,0 +1,974 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 33ffca1712dce914c819667da64ecac0, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: -2
+    - rid: 2261985958470877185
+  m_TableData:
+  - m_Id: 93865472000
+    m_Localized: jogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109128544256
+    m_Localized: "configura\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123355623424
+    m_Localized: sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155660152832
+    m_Localized: "Configura\xE7\xF5es de \xC1udio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173032960000
+    m_Localized: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188765794304
+    m_Localized: "m\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198702100480
+    m_Localized: efeitos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243346272256
+    m_Localized: voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259246878720
+    m_Localized: "n\xE3o fa\xE7a isso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316444602368
+    m_Localized: sair de verdade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330428411904
+    m_Localized: "deixa pra l\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343481085952
+    m_Localized: "seu jogo n\xE3o ser\xE1 salvo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376418955264
+    m_Localized: Escolha Um
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460086931456
+    m_Localized: Perfurante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482526457856
+    m_Localized: Espingarda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495478468608
+    m_Localized: Metralhadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509835571200
+    m_Localized: Buscador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568194891776
+    m_Localized: revestimento de borracha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7744649261056
+    m_Localized: "Os tiros ricocheteiam em obst\xE1culos {addBouncinessCount} em
+      vez de serem destru\xEDdos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 7761657163776
+    m_Localized: Queimar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7898886402048
+    m_Localized: "Adiciona {addBurnChance} chance por tiro de incendiar inimigos,
+      adicionando {addBurnStacksPerShot} ac\xFAmulos de dano de fogo"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 7913402888192
+    m_Localized: Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7918901620736
+    m_Localized: "Adiciona {addFrostChance} chance por tiro para congelar inimigos
+      com {addFrostStacksPerShot} ac\xFAmulos de gelo, retardando-os"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 7947909427200
+    m_Localized: Veneno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995976151040
+    m_Localized: "Adiciona {addPoisonChance} chance por tiro de envenenar inimigos,
+      adicionando {addPoisonStacksPerShot} ac\xFAmulos de dano de veneno"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8010836570112
+    m_Localized: Bombardeio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8015840374784
+    m_Localized: "Adiciona {addAdditionalProjectileChanceModifierFlat} chance de
+      disparar {addProjectileCountModifierFlat} bala(s) por tiro, mas com {addSpreadModifierFlat}
+      graus de dispers\xE3o e {addSpreadModifierMult} multiplicador de dispers\xE3o"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8072048242688
+    m_Localized: Metralhadora Corrente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8094353551360
+    m_Localized: "A cad\xEAncia de tiro e a dispers\xE3o aumentam quanto mais tempo
+      voc\xEA dispara (m\xE1ximo {addChainGunMaxFirerateMult}/{addChainGunMaxSpreadMult},
+      ap\xF3s <color=orange>10</color> segundos)"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8108177977344
+    m_Localized: Raio em Cadeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8145033326592
+    m_Localized: Adiciona {addChainLightningOdds} chance de um tiro eletrocutar {addChainLightningQty}
+      inimigos com raio em cadeia
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8160229289984
+    m_Localized: Aura de Investida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8174280208384
+    m_Localized: "Deixa uma grande aura danosa quando voc\xEA fizer dash, causando
+      20 de dano a cada inimigo e empurrando-os levemente para tr\xE1s"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8193129410560
+    m_Localized: Pequeno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288293974016
+    m_Localized: As balas ficam {addBulletSizeModifierMult} menores, mas causam {addDmgModifierMult}
+      de dano extra
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8322968285184
+    m_Localized: Lento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8324746670080
+    m_Localized: As balas se movem {addBulletSpeedModifierMult} mais lentamente,
+      mas causam {addDmgModifierMult} de dano extra
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8371068563456
+    m_Localized: "Encolher \xD3rbita"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8804960923648
+    m_Localized: As balas orbitam {addOrbitRadius} mais perto
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8825185857536
+    m_Localized: "Olho de \xC1guia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8852457222144
+    m_Localized: "Reduz a dispers\xE3o das balas em {addSpreadModifierMult}"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8866847879168
+    m_Localized: Artilharia Pesada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8868659818496
+    m_Localized: Anda {addPlayerMoveSpeedModifier} unidades mais devagar, mas com
+      +{addDmgModifierMult} de dano
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8928302821376
+    m_Localized: "Grande \xC1rea de Efeito"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8951350521856
+    m_Localized: "As \xE1reas de efeito ficam maiores (explos\xF5es, etc.)"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8968329064448
+    m_Localized: Conservantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030056636416
+    m_Localized: As balas permanecem por {addBulletLifetimeModifierMult} mais tempo
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 9039250550784
+    m_Localized: Tiro Potente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9044715728896
+    m_Localized: As balas ficam {addBulletSizeModifierMult} maiores e causam {addDmgModifierMult}
+      de dano extra
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 9151876001792
+    m_Localized: "\xC1gil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9312203272192
+    m_Localized: "As balas se movem {addBulletSpeedModifierMult} mais r\xE1pido"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 9326321299456
+    m_Localized: Extremamente Preciso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9329076957184
+    m_Localized: "Ganhe {addCriticalHitChance} de chance de cr\xEDtico"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 9436799266816
+    m_Localized: "Les\xE3o Cr\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9439617839104
+    m_Localized: "Ganhe {addCriticalHitDamageMultiplier} de dano em acertos cr\xEDticos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 9497310490624
+    m_Localized: Brrrt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9500124868608
+    m_Localized: Dispare {addFirerateModifierFlat} tiros a mais por segundo
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 11046778662912
+    m_Localized: Poder de Fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11092228141056
+    m_Localized: Inflige {addDmgModifierFlat} de dano extra por tiro
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 11110636941312
+    m_Localized: "Expandir \xD3rbita"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11115170983936
+    m_Localized: As balas orbitam mais longe
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 11175640264704
+    m_Localized: Perfurante+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11287569461248
+    m_Localized: "Os tiros continuar\xE3o atrav\xE9s de {addPiercingBoost} inimigo
+      extra"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 11446147706880
+    m_Localized: Glaucoma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11450442674176
+    m_Localized: "Aumenta a dispers\xE3o das balas em {addSpreadModifierMult}, mas
+      causa {addDmgModifierMult} de dano extra"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 11927620251648
+    m_Localized: "Rastreio T\xE9rmico+"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11930770173952
+    m_Localized: "Os proj\xE9teis buscam melhor os inimigos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 12621756592128
+    m_Localized: Maratona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623501422592
+    m_Localized: "Corra {addPlayerMoveSpeedModifier} unidades mais r\xE1pido, mas
+      o cooldown do dash aumenta em {addDashCooldownModifierMult}"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 12665796784128
+    m_Localized: Correria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12669248696320
+    m_Localized: "Movimente-se {addPlayerMoveSpeedModifier} unidades mais r\xE1pido"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 12998375731200
+    m_Localized: Ame o RNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001492099072
+    m_Localized: "Ganhe ou perca at\xE9 {addRandomizeDmgPercent} de dano por tiro"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 13271315869696
+    m_Localized: Perfurador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13273228472320
+    m_Localized: Alto dano perfurante
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13379226923008
+    m_Localized: Metralhadora
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13424881922048
+    m_Localized: "Disparo R\xE1pido"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13442019848192
+    m_Localized: Buscador
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13444804866048
+    m_Localized: O que persegue os inimigos
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13485829353472
+    m_Localized: Espingarda
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13488077500416
+    m_Localized: "M\xFAltiplas balas, alcance curto, alta dispers\xE3o"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13533799608320
+    m_Localized: Explosivo
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13539235426304
+    m_Localized: Ganhe {addShotsExplodeChance} chance para que os tiros explodam
+      ao atingir, com tamanho aumentado em {addExplosionSize}
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 13589348970496
+    m_Localized: "Po\xE7o de Gravidade"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13591731335168
+    m_Localized: "Os tiros ir\xE3o orbitar ao seu redor por um tempo"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 13625109606400
+    m_Localized: "Rastreio T\xE9rmico"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13627122872320
+    m_Localized: "Todos os proj\xE9teis perseguir\xE3o os inimigos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 13895210201088
+    m_Localized: "Velocidade \xE9 Poder"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13898091687936
+    m_Localized: "Causa {addSpeedDMGCoeff} da velocidade atual como dano b\xF4nus"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 13959844425728
+    m_Localized: Ondulante
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13962059018240
+    m_Localized: As balas se movem como cobras e causam {addDmgModifierMult} de dano
+      extra
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 13991813410816
+    m_Localized: Top 1%
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 13995437289472
+    m_Localized: "Inflige {addWormDMGCoeff} dos vermes atuais como dano b\xF4nus"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 62414390390784
+    m_Localized: tentar novamente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62440390881280
+    m_Localized: "voc\xEA morreu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70849190260736
+    m_Localized: selecionar melhoria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70851060920320
+    m_Localized: selecionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652116405346304
+    m_Localized: Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994933052973056
+    m_Localized: a bomba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4994975939731456
+    m_Localized: "os acertos cr\xEDticos sempre explodem"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 4995173608890368
+    m_Localized: "Explos\xE3o Cr\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5185523640213504
+    m_Localized: Hexpyre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5189445176041472
+    m_Localized: Inseticida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202534072098816
+    m_Localized: "Martelo El\xE9trico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5468339489775616
+    m_Localized: "Carni\xE7a-B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439200199806976
+    m_Localized: faca quente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439289920163840
+    m_Localized: "As balas ganham {addBulletSpeedModifierMult} de velocidade, mas
+      possuem {addPiercingBoost} de penetra\xE7\xE3o"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8439360548048896
+    m_Localized: "Po\xE7o Fantasma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439406442123264
+    m_Localized: "Proj\xE9teis orbitantes passam atrav\xE9s das paredes"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8439455565811712
+    m_Localized: "Disparo Estilha\xE7ado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439459323908096
+    m_Localized: Ganhe {addSplinterShotChance} chance para que os tiros se dividam
+      em 2 partes ao atingir, cada uma causando <color=orange>20%</color> do dano
+      original
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8439586063192064
+    m_Localized: "Explos\xE3o de Estagna\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439587875131392
+    m_Localized: "Ganhe {addNotShootingFirerateBoostMult} de cad\xEAncia de tiro
+      por <color=orange>5s</color> ap\xF3s n\xE3o disparar por <color=orange>5s</color>"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8439683530428416
+    m_Localized: Vaporizar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8439685069737984
+    m_Localized: "Ganhe {addVaporizingShotChance} de chance para matar instantaneamente
+      um inimigo ao ser atingido (somente n\xE3o-chefes)"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8555821761368064
+    m_Localized: Carregador de Tambor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8555823363592192
+    m_Localized: "Dispare {addFirerateModifierMult} tiros a mais por segundo, mas
+      com {addSpreadModifierFlat} graus de dispers\xE3o e {addSpreadModifierMult}
+      de dispers\xE3o dos tiros"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8557973586120704
+    m_Localized: Tiro Acelerado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8557975494529024
+    m_Localized: "A velocidade do tiro come\xE7a devagar {addAcceleratingShotStartSpeed}
+      e aumenta com o tempo {addAcceleratingShotAccelRate}"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8582138313641984
+    m_Localized: "evas\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582139848757248
+    m_Localized: "Sofra {addAvoidanceDefense} de dano a menos quanto mais r\xE1pido
+      voc\xEA se move"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 8582328907010048
+    m_Localized: "in\xE9rcia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582330416959488
+    m_Localized: "O movimento tem in\xE9rcia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176721700175872
+    m_Localized: "Reduza a sa\xFAde do inimigo em {addBugsprayPercent}"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 15176755212664832
+    m_Localized: "Explos\xF5es Cr\xEDticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15176780508512256
+    m_Localized: "As explos\xF5es sempre s\xE3o cr\xEDticas"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 15176796815966208
+    m_Localized: Criaturas explodem ao morrer
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 15176816877322240
+    m_Localized: "Acertos cr\xEDticos sempre explodem"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 15176851832651776
+    m_Localized: "O raio sempre \xE9 acionado"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 15176872162443264
+    m_Localized: "Os efeitos elementais se aplicam a cada tiro, com menos ac\xFAmulos
+      por tiro"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 19569029032632320
+    m_Localized: Nuvem Gasosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19569051677679616
+    m_Localized: "Inimigos envenenados emitem uma nuvem de g\xE1s venenoso, que envenena
+      os inimigos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 20303331854524416
+    m_Localized: Fumos Ardentes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20303354654760960
+    m_Localized: "Inimigos com veneno + queima emitem uma grande nuvem de g\xE1s
+      em chamas, que envenena e incendeia os inimigos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889217360207872
+    m_Localized: As balas ganham {addOnKillDmgModifierFlat} de dano ao matar
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889263577243648
+    m_Localized: "As balas crescem {addOnKillSizeModifierMult} ap\xF3s cada elimina\xE7\xE3o,
+      e ganham {addOnKillDmgModifierMult} de dano"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889334100271104
+    m_Localized: "Quando voc\xEA sofre dano, seu pr\xF3ximo tiro causa <color=orange>2x</color>
+      dano"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889358754390016
+    m_Localized: Acertos consecutivos causam um aumento de dano acumulativo de {addConsecutiveHitDamageModifierFlat}
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889445299658752
+    m_Localized: Inimigos em chamas sofrem {addConductiveFlamesDmgModifierMult} de
+      dano de eletricidade
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889525540888576
+    m_Localized: "Voc\xEA pode acumular {addCreditCardDebtLimit} vermes de d\xEDvida"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889633053483008
+    m_Localized: "Cause {addConsecutiveCriticalHitDamageModifierFlat} de dano extra
+      por acerto cr\xEDtico consecutivo a um inimigo"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889659897028608
+    m_Localized: "Aumente a cad\xEAncia de tiro em {addFranticFirerateModMult} enquanto
+      estiver com menos de 40% de HP"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889672802902016
+    m_Localized: "Explos\xF5es s\xE3o afetadas {addGamblerBombMult} vezes mais por
+      efeitos de chance"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889709977018368
+    m_Localized: "As balas se transformam em estilha\xE7os em <color=orange>20%</color>
+      durante o voo"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889757175521280
+    m_Localized: "Permanecer parado por <color=orange>3s</color> ainda concede {addHaltDamageMult}
+      de precis\xE3o b\xF4nus e {addHaltSpreadMult} de dano por <color=orange>6s</color>"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889826708692992
+    m_Localized: O raio pode perfurar <color=orange>+1</color> inimigo
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32889844089888768
+    m_Localized: "Os tiros do drone t\xEAm tamanho {addDroneBulletSizeModifierMult}
+      e causam {addDroneBulletDamageModifierFlat} de dano"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890018845564928
+    m_Localized: As balas crescem com o tempo, causando mais dano
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890114727354368
+    m_Localized: O raio em cadeia pode ser ativado com os ricochetes
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890159409274880
+    m_Localized: ganhe <color=orange>50-60</color> vermes
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890303089352704
+    m_Localized: "Acertos consecutivos em um inimigo resultar\xE3o em cr\xEDticos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890653888356352
+    m_Localized: "Quando voc\xEA sofre dano, seu pr\xF3ximo tiro ser\xE1 cr\xEDtico"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890886521233408
+    m_Localized: "O tiro pulsa e causa <color=orange>+10</color> de dano extra quando
+      est\xE1 maior"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890913192812544
+    m_Localized: Itens da loja custam {addRewardsCardDiscount} a menos
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32890963482517504
+    m_Localized: "Explos\xF5es lan\xE7am {addShrapnel} disparos de estilha\xE7os"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32891030813679616
+    m_Localized: "Tiros em estilha\xE7os sempre s\xE3o cr\xEDticos"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32891189178015744
+    m_Localized: "Fa\xE7a dash {addDashCooldownModifierMult} vezes mais frequentemente"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32891216277413888
+    m_Localized: "Ganhe {addWeakReplicationChance} de chance para gerar um segundo
+      tiro, mais fraco, ap\xF3s disparar"
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32906566104653824
+    m_Localized: As balas ficam {addBulletGrowthPerBounce} maiores a cada ricochete
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 2261985958470877185
+  - m_Id: 32906653484589056
+    m_Localized: Esponja de Sangue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907407859523584
+    m_Localized: Bala Faminta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907446795247616
+    m_Localized: Sangria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907472959315968
+    m_Localized: Ferida Progressiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907504844414976
+    m_Localized: Chamas Condutivas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907529922158592
+    m_Localized: "cart\xE3o de cr\xE9dito"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907554534334464
+    m_Localized: Ataque Concentrado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907588021657600
+    m_Localized: rato encurralado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907612088573952
+    m_Localized: bomba do apostador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907636948213760
+    m_Localized: faca fantasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907659454849024
+    m_Localized: Parada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907674210410496
+    m_Localized: alta voltagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907706544300032
+    m_Localized: "canh\xE3o flutuante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907730024013824
+    m_Localized: "Infla\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907752266407936
+    m_Localized: Eletricidade Revestida de Borracha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907784902287360
+    m_Localized: "sal\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907812156874752
+    m_Localized: "Muni\xE7\xE3o Perfurante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907835699503104
+    m_Localized: agulha pressurizada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907857954480128
+    m_Localized: tiro pulsante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907882939949056
+    m_Localized: "cart\xE3o de recompensas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907919602360320
+    m_Localized: "estilha\xE7os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907932747309056
+    m_Localized: "Picada de Estilha\xE7o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907969149673472
+    m_Localized: Suporte de Agachamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32907989244583936
+    m_Localized: "replica\xE7\xE3o fraca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33202470737027072
+    m_Localized: HGH Revestido de Borracha
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 2261985958470877185
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 002032708ed974000020721de0d974000020724716da74000020327d1cda74000020b23228da74000020f2df37da7400002032bf5cda74000020720e63da7400002072f758e874000010d94d7dfb1d000010196f98fb1d00001019bfa4fb1d00001059adc2fb1d000010994ed9fb1d00001059dc79651e00001059f16e671e0000101925697d1e000040cbe125eb350000400b9333eb350000400b5f37eb35000040cb0a3ceb350000404b2e44eb350000400bea48eb350000e0d6e5f28545000020f221cb2148000020b2a591d87400002072689cd874000020f2d3acd8740000207291b2d874000020f2b7c6d874000020b266d9d874000020f26ef2d874000020f2aef8d87400002032b0fbd874000020f25704d97400002032550fd974000020b2851fd974000020b29123d974000020f2414cd974000020f29462d97400002032fc6cd9740000a08c76e7be110000701191ba0c0000007091cbb20c00000070d1e6a30c00000070d1cf640c0000007051925c0c000000705159500c000000705125d30b0000007011ca850b0000007051237b0b0000007091036a0a0000007051d9d90a000000709117440a00000070d1f31b0a00000070519c160a0000007091eba3080000007011d595080000007051187c0800000070912a78080000007011310b0700000070511a2f070000007051c333070000007051b545070000007051554a0700000070119d5c0700000070d16968070000007011396f0700000070d1c489070000007091419207000000709110020800000070911f0d080000007051e51008000000701126240800000070517936080000007011e339080000
